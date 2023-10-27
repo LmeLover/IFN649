@@ -35,4 +35,17 @@ Device 3 :
 **How do they work?**
 ![Slide6](https://github.com/LmeLover/IFN649/assets/116260943/8efe9546-036c-4c40-ba35-7d678cd9a7bc)
 
+---  
+
+**Videos**
+Here are some videos of testing some of the components.  
+
+
+Testing LCD Display (https://youtu.be/k9Xgu7n5mfU)
+Testing LCD with Temperature (https://youtu.be/uptp26STzJw)
+Testing the 3-Axis Accelerometer (https://youtu.be/OpdrPHYnN8Y)
+Testing MQTT with TilT Sensor (https://youtu.be/FiVrmTvg3Lc)
+Testing Device 2 with Device 1 (https://youtu.be/TI6zhg6ZMgY)
+Testing of Device 3 (https://youtu.be/DDNlCkdxtQE)
+
 
