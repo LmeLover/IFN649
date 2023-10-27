@@ -11,6 +11,8 @@ Device 1 rfcomm0
 Device 2 rfcomm1  
 Device 3 rfcomm3  
 
+---
+
 **Python File Execution Order**  
 The python files require different terminals to run.  
 The command to run the files are "python [files name]"  
