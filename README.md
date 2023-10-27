@@ -1,6 +1,6 @@
 # IFN649
-A backup files. First git had COMMIT issues.
-**About**
+A backup files. First git had COMMIT issues.  
+**About**  
 This project involved making an IoT Device that used 3 Tiers.
 ![Slide2](https://github.com/LmeLover/IFN649/assets/116260943/12e83beb-3805-486c-9d41-98d7e467cc4e)
 
