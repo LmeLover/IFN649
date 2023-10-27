@@ -37,7 +37,7 @@ Device 3 :
 
 ---  
 
-**Videos**
+**Videos**  
 Here are some videos of testing some of the components.  
 
 
