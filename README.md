@@ -1,5 +1,26 @@
 # IFN649
 A backup files. First git had COMMIT issues.  
+---
+
+The working arduino sketches and python files can be found in the Final Presentation Sketches and Code folder.  
+The media folder has a few of the things I documented while creating this device.  
+The Assessment Arduino Sketches folder contain several test sketches using different sensors and displays.  
+
+
+---  
+**Videos**  
+Here are some videos of testing some of the components.  
+
+
+Testing LCD Display (https://youtu.be/k9Xgu7n5mfU)  
+Testing LCD with Temperature (https://youtu.be/uptp26STzJw)  
+Testing the 3-Axis Accelerometer (https://youtu.be/OpdrPHYnN8Y)  
+Testing MQTT with TilT Sensor (https://youtu.be/FiVrmTvg3Lc)  
+Testing Device 2 with Device 1 (https://youtu.be/TI6zhg6ZMgY)  
+Testing of Device 3 (https://youtu.be/DDNlCkdxtQE)  
+
+---
+
 **About**  
 This project involved making an IoT Device that used 3 Tiers.
 ![Slide2](https://github.com/LmeLover/IFN649/assets/116260943/12e83beb-3805-486c-9d41-98d7e467cc4e)
@@ -35,17 +56,6 @@ Device 3 :
 **How do they work?**
 ![Slide6](https://github.com/LmeLover/IFN649/assets/116260943/8efe9546-036c-4c40-ba35-7d678cd9a7bc)
 
----  
 
-**Videos**  
-Here are some videos of testing some of the components.  
-
-
-Testing LCD Display (https://youtu.be/k9Xgu7n5mfU)  
-Testing LCD with Temperature (https://youtu.be/uptp26STzJw)  
-Testing the 3-Axis Accelerometer (https://youtu.be/OpdrPHYnN8Y)  
-Testing MQTT with TilT Sensor (https://youtu.be/FiVrmTvg3Lc)  
-Testing Device 2 with Device 1 (https://youtu.be/TI6zhg6ZMgY)  
-Testing of Device 3 (https://youtu.be/DDNlCkdxtQE)  
 
 
